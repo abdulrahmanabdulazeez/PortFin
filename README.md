@@ -38,11 +38,7 @@ Link to lws2_32;
 
 >./Pscan
 
-# Screenshots
-(pic/pic 1.png)
-![2](pic/pic 2.png)
-![3](pic/pic3.png)
-![4](pico/pic4.png)
+
 
 
 

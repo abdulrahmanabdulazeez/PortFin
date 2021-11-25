@@ -1,7 +1,7 @@
 # PortFin
 Port-Fin(port finder) is a tool which scans for open and closed port on a website/host. This tool scans the state of the well known/common ports.
 ```
-Below are the ports scanned by this tool
+Below are the ports scanned by this tool:
 20,21,22,23,25,53,67,68,80,110,119,123,143,161,194,443
 
 Note that the scanning of ports using this tool is not based on the user's 
@@ -37,4 +37,17 @@ Link to lws2_32;
 >g++ Pscan.cpp -lws2_32 -o Pscan
 
 >./Pscan
+
+# Screenshots
+![1](pic/pic1.png)
+![2](pic/pic2.png)
+![3](pic/pic3.png)
+![4](pico/pic4.png)
+
+
+
+
+
+
+
 

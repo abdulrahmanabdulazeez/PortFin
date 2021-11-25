@@ -40,7 +40,6 @@ Link to lws2_32;
 
 # Screenshots
 ![1](pic/p1.png)
-![2](pic/s2.png)
 ![3](pic/p3.png)
 
 

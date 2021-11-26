@@ -10,12 +10,13 @@ specification. It will only be available in the next version of this tool.
 
 # Platform(s)
 * Windows  ✅
-* Linux    ✅
+* Linux/Unix    ✅
+* Parrot    ✅
 
 # Requirement
 * GCC Compiler
 
-# Installation(Linux)
+# Installation(Linux/Parrot)
 >https://github.com/abdulrahmanabdulazeez/PortFin.git
 
 >cd PortFin

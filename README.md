@@ -17,7 +17,7 @@ specification. It will only be available in the next version of this tool.
 * GCC Compiler
 
 # Installation(Linux/Parrot)
->https://github.com/abdulrahmanabdulazeez/PortFin.git
+>git clone https://github.com/abdulrahmanabdulazeez/PortFin.git
 
 >cd PortFin
 
@@ -29,7 +29,7 @@ specification. It will only be available in the next version of this tool.
 Clone to desktop;
 >cd desktop
 
->https://github.com/abdulrahmanabdulazeez/PortFin.git
+>git clone https://github.com/abdulrahmanabdulazeez/PortFin.git
 
 >cd PortFin
 

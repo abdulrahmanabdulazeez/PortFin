@@ -56,8 +56,9 @@ You can contact/reach me through this Link:
 <a href="https://github.com/abdulrahmanabdulazeez">**https://github.com/abdulrahmanabdulazeez**</a>
 ```
 and also, star this project if you love it and 
-want more of such contents.
+want more of such contents.🙏🙏
 ```
+* Version 2 coming soon.......😁😁😁
 
 
 

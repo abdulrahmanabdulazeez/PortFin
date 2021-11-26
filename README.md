@@ -42,6 +42,22 @@ Link to lws2_32;
 ![1](pic/p1.png)
 ![3](pic/p3.png)
 
+# Contact Author
+```
+You can contact/reach me through this Link:
+```
+**https://web.facebook.com/abdulrahman.abdulazeez.5243**
+
+# Piece of Advice
+
+* Do not forget to follow me on github @
+
+<a href="https://github.com/abdulrahmanabdulazeez">**https://github.com/abdulrahmanabdulazeez**</a>
+```
+and also, star this project if you love it and 
+want more of such contents.
+```
+
 
 
 

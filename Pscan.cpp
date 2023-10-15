@@ -16,7 +16,7 @@
 
 using namespace std;
 
-#pragma comment(lib,"ws2_32.lib")
+//#pragma comment(lib,"ws2_32.lib")
 
 
     #if defined(_WIN32)

@@ -173,7 +173,7 @@ int main(){
     header_Unix();
     cout << endl;
     #endif
-
+/*
     Sleep(300);
     cout << green << "\n[~~]";
     Sleep(40);
@@ -195,6 +195,7 @@ int main(){
     Sleep(40);
     cout << "!";
     Sleep(40);
+	*/
     cout << "!\n\n";
 
     cout << yellow << "[" << red << "1" << yellow << "]" << blue << " Start a scan\n";
